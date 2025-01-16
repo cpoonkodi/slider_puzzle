@@ -19,7 +19,7 @@ const inputStyle = {
 
 const TestSignup = (props) => {
   const api = "N0eDUmyGrMEVZZsei";
-  const emailServer = "gmail";
+  const emailServer = "service_9kgll7r";
   const templateId = "poonkodi";
 
   function sendEmail(e) {
